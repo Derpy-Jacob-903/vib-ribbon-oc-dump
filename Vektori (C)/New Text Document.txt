@@ -1,0 +1,2 @@
+Name: Vektori
+Color: #00a2e8
